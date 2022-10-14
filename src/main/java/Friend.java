@@ -4,6 +4,11 @@ import java.util.Objects;
 
 public class Friend {
     private String name;
+
+    public LocalDate getDateOfBirh() {
+        return dateOfBirh;
+    }
+
     private LocalDate dateOfBirh;
 
     @Override
@@ -24,4 +29,7 @@ public class Friend {
         this.dateOfBirh = dateOfBirh;
     }
 
+    public String getName() {
+        return name;
+    }
 }
