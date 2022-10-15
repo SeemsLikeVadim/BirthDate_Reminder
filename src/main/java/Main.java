@@ -2,15 +2,16 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Программа для напоминания о днях рождения друзей
+ * @author Vadim Okhremenko IKBO-16-20
+ * @version 1.0
+ */
 public class Main {
 
     public static List<Friend> friendSearch(LocalDate date){
-        return FriendFactory.friendList
-                .stream()
-                .filter(n -> n.getDateOfBirh().getDayOfMonth() == date.getDayOfMonth() && n.getDateOfBirh().getMonthValue() == date.getMonthValue())
-                .toList();
+        return null;
     }
-
 
     public static void main(String[] args){
         LocalDate today = LocalDate.now();

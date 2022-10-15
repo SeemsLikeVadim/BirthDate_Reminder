@@ -1,0 +1,35 @@
+[33mcommit 34e9d526dcaccc12ab7273860859ee7827303fb9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: SeemsLikeVadim <ohremenko_ve@mail.ru>
+Date:   Fri Oct 14 21:33:13 2022 +0300
+
+    Added more tests
+
+[33mcommit 29fa1b1db945d02a0a33a556af587a938b1ee9de[m
+Author: SeemsLikeVadim <ohremenko_ve@mail.ru>
+Date:   Fri Oct 14 20:12:39 2022 +0300
+
+    Edit friendSearch() method
+
+[33mcommit 9a47c3f859f8f33cc334fb34c3f9a02d04a2425a[m
+Author: SeemsLikeVadim <ohremenko_ve@mail.ru>
+Date:   Fri Oct 14 20:08:22 2022 +0300
+
+    Added first test
+
+[33mcommit 0c199c86a95534ca734907fab5608ac4d70bcf15[m
+Author: SeemsLikeVadim <ohremenko_ve@mail.ru>
+Date:   Fri Oct 14 19:48:17 2022 +0300
+
+    Added Test class
+
+[33mcommit e7dac29d2c114e21a27edfb1eb7a0fc0a13929e2[m
+Author: SeemsLikeVadim <ohremenko_ve@mail.ru>
+Date:   Fri Oct 14 19:31:44 2022 +0300
+
+    Added Friend class and Factory class
+
+[33mcommit 7fb714c28f00a9e91ded419d03e40abc02de3998[m
+Author: SeemsLikeVadim <ohremenko_ve@mail.ru>
+Date:   Fri Oct 14 19:14:40 2022 +0300
+
+    Init project

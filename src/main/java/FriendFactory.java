@@ -15,7 +15,6 @@ public class FriendFactory {
         localList.add(new Friend("Паша", LocalDate.of(2002,3,18)));
         localList.add(new Friend("Максим", LocalDate.of(2003,4,14)));
         localList.add(new Friend("Алёна", LocalDate.of(2002,4,16)));
-        localList.add(new Friend("Алина", LocalDate.of(2002,10,14)));
         return localList;
     }
 }
